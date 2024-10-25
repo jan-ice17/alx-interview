@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-This script reads lines from standard input, tracking the total file size 
+This is a script that  reads lines from standard input, tracking the total file size 
 and counts of specific HTTP status codes, and outputs metrics every 10 lines.
 """
 
